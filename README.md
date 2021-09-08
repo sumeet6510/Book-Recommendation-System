@@ -59,8 +59,8 @@ expressed by 0.
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data 
-* Users_data is being kept [here](https://github.com/Sumeet6510/Book-Recommendation-System/blob/main/Users.csv) within this repo.
-* Ratings_data is being kept [here](https://github.com/Sumeet6510/Book-Recommendation-System/blob/main/Ratings.csv) within this repo.
-* Books_data is being kept [here](https://drive.google.com/file/d/1phmZ4_TzhGi40dPPU_bN_Mz8Bxlhe4d9/view?usp=sharing) 
+* Users_data is being kept [here](https://github.com/sumeet6510/Book-Reccommendation-System/blob/main/Users.csv) within this repo.
+* Ratings_data is being kept [here](https://github.com/sumeet6510/Book-Reccommendation-System/blob/main/Ratings.csv) within this repo.
+ 
 
 
