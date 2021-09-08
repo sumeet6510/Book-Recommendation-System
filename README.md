@@ -59,24 +59,8 @@ expressed by 0.
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data 
-* Users_data is being kept [here](https://github.com/Harsh1091996/Book-Recommendation-System/blob/main/Users.csv) within this repo.
-* Ratings_data is being kept [here](https://github.com/Harsh1091996/Book-Recommendation-System/blob/main/Ratings.csv) within this repo.
+* Users_data is being kept [here](https://github.com/Sumeet6510/Book-Recommendation-System/blob/main/Users.csv) within this repo.
+* Ratings_data is being kept [here](https://github.com/Sumeet6510/Book-Recommendation-System/blob/main/Ratings.csv) within this repo.
 * Books_data is being kept [here](https://drive.google.com/file/d/1phmZ4_TzhGi40dPPU_bN_Mz8Bxlhe4d9/view?usp=sharing) 
-    
-3. Complete notebook containing Data exploration/Data processing/transformation/model development is being kept [here](https://github.com/Harsh1091996/Book-Recommendation-System/blob/cb7aab70db7b7effe4457e66c2fc26b6e85f64c4/Book_Recommendation_System.ipynb)
- 
 
 
-
-
-## Contributing AlmaBetter Team Members
-
-
-|Name     |  Email Address   | 
-|---------|-----------------|
-|[Himanshu]| @harshsharma1091996@gmail.com        |
-|[Rohan]|     @rohanroney98@gmail.com    |
-|[Shweta]| @Shwetasingh8597@gmail.com        |
-|[Sweety]|     @sweetyjunnarkar17@gmail.com    |
-
-* Feel free to contact team members with any questions.
